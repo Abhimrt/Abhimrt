@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://blush.design/api/download?shareUri=qO4tivYEiKXiBNsu&c=Hair_0%7Eff00bf-0.1%7E3164cf_Rainbow_0%7E16c738-0.1%7Effa648_Skin_0%7Ed46b55-0.1%7E5e0606&bg=000000&w=800&h=800&fm=png" height="175px"/></a>
+<img src="images/bc.gif" width="100%">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Singahal</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
