@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## <img src="images/about.gif" width="30px">  About Me
 
 - 🔭 I’m currently working on **Frontend**
 
@@ -57,8 +57,8 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
+## <img src="images/contact.gif" style=" width:50px;"> Contact with me :
+<p align="left" >
 
 <a href="https://www.facebook.com/abhishek.singhal.52459/"><i class="fab fa-facebook-f"></i></a>
           <a href="https://www.linkedin.com/in/abhishek-singhal-112001/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
@@ -78,4 +78,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Abhimrt">
 </a>
+<img src="images/earth.gif" width="80px">
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Abhimrt?label=Followers&style=social" alt="GitHub Badge"></a>
