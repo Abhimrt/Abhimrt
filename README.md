@@ -1,14 +1,14 @@
 <img src="images/bc.gif" width="100%">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Singhal</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Myself Abhishek Singhal</h1>
+<h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 
 ## <img src="images/about.gif" width="30px">  About Me
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Java**
 
 
 - 👨‍💻 About me are available at **[My Portfolio](https://abhimrt.github.io/Portfolio/)**
